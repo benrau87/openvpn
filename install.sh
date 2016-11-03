@@ -11,5 +11,3 @@ dpkg -i openvpn-as*
 echo "Please enter a new password for openvpn"
 passwd openvpn
 
-echo
-echo "Please navigate to https://$HOSTNAME:943/admin to setup your VPN" 
