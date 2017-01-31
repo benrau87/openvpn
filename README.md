@@ -15,6 +15,8 @@ Steps
 
 5) Change to local user database under Authentication - General
 
-6) Configure your network settings under Configuration - VPN Settings
+6) Configure your network settings under Configuration - VPN Settings, make sure to allow access to your local subnet
 
 7) Add your first user and set a password
+
+8) Under Server Network Settings make sure to add in your Hostname or IP for your PUBLIC IP
