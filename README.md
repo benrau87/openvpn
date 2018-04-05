@@ -9,7 +9,7 @@ Steps
 
 3) Run the install.sh script after installation is complete.
 
-3) Setup port forwarding (preferably port 443 or 8080) on your router to the machine that is hosting OpenVPN.
+3) Setup port forwarding for port 443/tcp and 1194/udp on your router to the machine that is hosting OpenVPN.
 
 4) Navigate to https://HOSTNAME:943/admin and login as openvpn and use the password created on step 3.
 
